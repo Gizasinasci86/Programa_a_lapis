@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T21:06:12.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="LelyYdHwehR2bgYd7A2M" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T21:08:47.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="3CKYHSuaB5z4OibO0WQe" version="21.3.6" type="github">
   <diagram name="Página-1" id="4XTpKrNHXo4NrlW7REfh">
     <mxGraphModel dx="825" dy="444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RvgC5mEMS0ewLklrx9qO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvgC5mEMS0ewLklrx9qO-1" target="RvgC5mEMS0ewLklrx9qO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgC5mEMS0ewLklrx9qO-1" value="Inserir medição VAL em metros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgC5mEMS0ewLklrx9qO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvgC5mEMS0ewLklrx9qO-2" target="RvgC5mEMS0ewLklrx9qO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgC5mEMS0ewLklrx9qO-2" value="Multiplicar VAL por 100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RvgC5mEMS0ewLklrx9qO-5" value="Exibir o produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
