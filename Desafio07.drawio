@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T20:53:42.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="IkS3O1czPR20zBQnA2zo" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T21:05:31.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="nuxaL03DiTNVYmErudJQ" version="21.3.6" type="github">
   <diagram name="Página-1" id="MVuRNI7-Hp2oM3asGtoD">
-    <mxGraphModel dx="825" dy="444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="1613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-1" target="e64ZUkMBL9_bcTJpg7ub-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-1" value="Inserir dois números inteiros: NUM 01 e NUM 02" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-1129" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-2" target="e64ZUkMBL9_bcTJpg7ub-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-2" target="e64ZUkMBL9_bcTJpg7ub-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-2" value="NUM 01 = NUM 02" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="-1005" width="81" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-4" target="e64ZUkMBL9_bcTJpg7ub-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-4" value="Sim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516.5" y="-984" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-7" value="Não existe valor maior, os dois são iguais." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-858" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-10" target="e64ZUkMBL9_bcTJpg7ub-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-10" value="Não" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198.5" y="-984" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-13" target="e64ZUkMBL9_bcTJpg7ub-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-13" target="e64ZUkMBL9_bcTJpg7ub-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-13" value="NUM 01 &amp;gt; NUM 02" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="-881" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-19" target="e64ZUkMBL9_bcTJpg7ub-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-19" value="Não" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="-860" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e64ZUkMBL9_bcTJpg7ub-20" target="e64ZUkMBL9_bcTJpg7ub-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-20" value="Sim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="-860" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-23" value="O primeiro valor é maior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="-763" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e64ZUkMBL9_bcTJpg7ub-25" value="O segundo valor é maior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="-763" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
