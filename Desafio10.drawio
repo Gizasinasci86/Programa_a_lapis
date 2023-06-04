@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T21:39:11.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="FcY_3wWCsVVPrCuGFY-O" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T21:52:56.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="RNOYDlohgyVa1V6MT2jO" version="21.3.6" type="github">
   <diagram name="Página-1" id="EVIC_Ds2m6hr_qckuSO-">
     <mxGraphModel dx="825" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,20 @@
         <mxCell id="10C5gQ7T9ezZw4G22yt1-1" value="Insira a&amp;nbsp; IDADE do cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="10C5gQ7T9ezZw4G22yt1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10C5gQ7T9ezZw4G22yt1-2" target="10C5gQ7T9ezZw4G22yt1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10C5gQ7T9ezZw4G22yt1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10C5gQ7T9ezZw4G22yt1-2" target="10C5gQ7T9ezZw4G22yt1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="10C5gQ7T9ezZw4G22yt1-2" value="18 =&amp;gt;IDADE =&amp;lt; 65?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="10C5gQ7T9ezZw4G22yt1-4" value="Sim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="70" height="40" as="geometry" />
+          <mxGeometry x="180" y="155" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10C5gQ7T9ezZw4G22yt1-6" value="Não" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="155" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
